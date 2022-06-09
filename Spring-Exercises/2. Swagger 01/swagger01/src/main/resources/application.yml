@@ -1,0 +1,8 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+server:
+  port: 1235
+
+#  ho dovuto mapparlo nel port 1235 perché 1234 mi risulta occupato da una app del sistema

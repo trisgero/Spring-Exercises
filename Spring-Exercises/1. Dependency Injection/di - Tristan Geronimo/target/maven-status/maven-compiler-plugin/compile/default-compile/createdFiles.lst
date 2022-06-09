@@ -1,0 +1,4 @@
+it\triexercise\di\components\MyComponent.class
+it\triexercise\di\DiApplication.class
+it\triexercise\di\controllers\MyController.class
+it\triexercise\di\services\MyService.class
